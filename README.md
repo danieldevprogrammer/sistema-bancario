@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Desafio Módulo 2 - Back-end
+# Sistema Bancário - Módulo 2 - Back-end
 
 ## Como entregar?
 
